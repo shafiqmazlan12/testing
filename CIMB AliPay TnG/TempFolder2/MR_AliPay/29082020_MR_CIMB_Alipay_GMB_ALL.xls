@@ -1,0 +1,92 @@
+
+            <html xmlns:x="urn:schemas-microsoft-com:office:excel">
+                <head>
+                    <xml>
+                    <x:ExcelWorkbook>
+                    <x:ExcelWorksheets>
+                    <x:ExcelWorksheet>
+                    <x:WorksheetOptions>
+                    <x:Panes>
+                    </x:Panes>
+                    </x:WorksheetOptions>
+                    </x:ExcelWorksheet>
+                    </x:ExcelWorksheets>
+                    </x:ExcelWorkbook>
+                    </xml>
+                    <style>
+                        .num {mso-number-format:"0\.00";}
+                        .text{mso-number-format:"\@";}
+                        .percent{mso-number-format:"Percent";}
+                        .head{width:64px;white-space: nowrap;}
+                        table{white-space: nowrap;}
+                    </style>
+                </head>
+            <body>
+        <table border="0" width="100%">
+        <tr>
+            <td class="head">Tran Qty</td>
+            <td class="head">Tran Category</td>
+            <td class="head">Partner ID</td>
+            <td class="head">Branch Company</td>
+            <td class="head">City</td>
+            <td class="head">Province</td>
+            <td class="head">Brand</td>
+            <td class="head">Shop ID</td>
+            <td class="head">Merchant Name</td>
+            <td class="head">Merchant ID</td>
+            <td class="head">Tran Date</td>
+            <td class="head">Tran Time</td>
+            <td class="head">Terminal ID</td>
+            <td class="head">Alipay Transaction Number</td>
+            <td class="head">Campaign</td>
+            <td class="head">Currency</td>
+            <td class="head">Merchant Reference Id</td>
+            <td class="head">TRACE. NO</td>
+            <td class="head">Tran Amt</td>
+            <td class="head">Exchange</td>
+            <td class="head">Tran Amt (CNY)</td>
+            <td class="head">MBB Merchant ID</td>
+            <td class="head">Type</td>
+            <td class="head">System Reference Number</td>
+            <td class="head">Alipay Partner Transaction Number</td>
+            
+            
+            <td class="head">MDR Rate</td>
+            <td class="head">MDR Amount</td>
+            <td class="head">SST Amount</td>
+            <td class="head">Net Amount</td>
+        </tr>
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2088621663270607</td>
+                        <td class="text">Sky Avenue</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">PEACE CF GH</td>
+                        <td class="text">PeaceCaf¨¦-GentingHighlands</td>
+                        <td class="text">600000042602637</td>
+                        <td class="text">20200829</td>
+                        <td class="text">014524</td>
+                        <td class="text">42602637</td>
+                        <td class="text">2020082922001472101415306154</td>
+                        <td class="text">alipay</td>
+                        <td>MYR</td>
+                        <td class="text">5686981</td>
+                        <td class="text">001774</td>
+                        <td class="num">132</td>
+                        <td>1.64926800</td>
+                        <td class="num">217.7</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185021279523</td>
+                        <td class="text">42602637185021279523</td>
+                        
+                        
+                        <td class="percent">0.01</td>
+                        <td class="num">1.32</td>
+                        <td class="num">0</td>
+                        <td class="num">130.68</td>
+                    </tr>
+                </table></body></html>

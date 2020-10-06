@@ -1,0 +1,194 @@
+
+            <html xmlns:x="urn:schemas-microsoft-com:office:excel">
+                <head>
+                    <xml>
+                    <x:ExcelWorkbook>
+                    <x:ExcelWorksheets>
+                    <x:ExcelWorksheet>
+                    <x:WorksheetOptions>
+                    <x:Panes>
+                    </x:Panes>
+                    </x:WorksheetOptions>
+                    </x:ExcelWorksheet>
+                    </x:ExcelWorksheets>
+                    </x:ExcelWorkbook>
+                    </xml>
+                    <style>
+                        .num {mso-number-format:"0\.00";}
+                        .text{mso-number-format:"\@";}
+                        .percent{mso-number-format:"Percent";}
+                        .head{width:64px;white-space: nowrap;}
+                        table{white-space: nowrap;}
+                    </style>
+                </head>
+            <body>
+        <table border="0" width="100%">
+        <tr>
+            <td class="head">Tran Qty</td>
+            <td class="head">Tran Category</td>
+            <td class="head">Partner ID</td>
+            <td class="head">Branch Company</td>
+            <td class="head">City</td>
+            <td class="head">Province</td>
+            <td class="head">Brand</td>
+            <td class="head">Shop ID</td>
+            <td class="head">Merchant Name</td>
+            <td class="head">Merchant ID</td>
+            <td class="head">Tran Date</td>
+            <td class="head">Tran Time</td>
+            <td class="head">Terminal ID</td>
+            <td class="head">Alipay Transaction Number</td>
+            <td class="head">Campaign</td>
+            <td class="head">Currency</td>
+            <td class="head">Merchant Reference Id</td>
+            <td class="head">TRACE. NO</td>
+            <td class="head">Tran Amt</td>
+            <td class="head">Exchange</td>
+            <td class="head">Tran Amt (CNY)</td>
+            <td class="head">MBB Merchant ID</td>
+            <td class="head">Type</td>
+            <td class="head">System Reference Number</td>
+            <td class="head">Alipay Partner Transaction Number</td>
+            
+            
+            <td class="head">MDR Rate</td>
+            <td class="head">MDR Amount</td>
+            <td class="head">SST Amount</td>
+            <td class="head">Net Amount</td>
+        </tr>
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2088621663270607</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">MEDAN SELERA T1</td>
+                        <td class="text">MEDAN SELERA</td>
+                        <td class="text">600000041603163</td>
+                        <td class="text">20200830</td>
+                        <td class="text">161845</td>
+                        <td class="text">44600551</td>
+                        <td class="text">2020083022001489671458284434</td>
+                        <td class="text">alipay</td>
+                        <td>MYR</td>
+                        <td class="text">200830161823000662662973</td>
+                        <td class="text">003690</td>
+                        <td class="num">34.9</td>
+                        <td>1.65094000</td>
+                        <td class="num">57.62</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185041305547</td>
+                        <td class="text">44600551185041305547</td>
+                        
+                        
+                        <td class="percent">0.01</td>
+                        <td class="num">0.35</td>
+                        <td class="num">0</td>
+                        <td class="num">34.55</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2088621663270607</td>
+                        <td class="text">Sky Avenue</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">PEACE CF GH</td>
+                        <td class="text">PeaceCaf¨¦-GentingHighlands</td>
+                        <td class="text">600000042602637</td>
+                        <td class="text">20200830</td>
+                        <td class="text">112942</td>
+                        <td class="text">42602637</td>
+                        <td class="text">2020083022001424991452487121</td>
+                        <td class="text">alipay</td>
+                        <td>MYR</td>
+                        <td class="text">5688789</td>
+                        <td class="text">001780</td>
+                        <td class="num">44</td>
+                        <td>1.65370500</td>
+                        <td class="num">72.76</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185041298903</td>
+                        <td class="text">42602637185041298903</td>
+                        
+                        
+                        <td class="percent">0.01</td>
+                        <td class="num">0.44</td>
+                        <td class="num">0</td>
+                        <td class="num">43.56</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2088621663270607</td>
+                        <td class="text">Genting Grand</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">Genting Grand</td>
+                        <td class="text">Seasons - Genting Highlands</td>
+                        <td class="text">600000065606938</td>
+                        <td class="text">20200830</td>
+                        <td class="text">035223</td>
+                        <td class="text">65606938</td>
+                        <td class="text">2020083022001413801406842821</td>
+                        <td class="text">alipay</td>
+                        <td>MYR</td>
+                        <td class="text">1227438</td>
+                        <td class="text">001349</td>
+                        <td class="num">39</td>
+                        <td>1.65261100</td>
+                        <td class="num">64.45</td>
+                        <td class="text">GentingGrand</td>
+                        <td>P</td>
+                        <td class="text">185031297156</td>
+                        <td class="text">65606938185031297156</td>
+                        
+                        
+                        <td class="percent">0.01</td>
+                        <td class="num">0.39</td>
+                        <td class="num">0</td>
+                        <td class="num">38.61</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2088621663270607</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Selangor</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">THE LAUGHING FISH BY HARRY RAMSDEN</td>
+                        <td class="text">THE LAUGHING FISH BY HARRY RAMSDEN</td>
+                        <td class="text">600060389608346</td>
+                        <td class="text">20200830</td>
+                        <td class="text">222917</td>
+                        <td class="text">89608346</td>
+                        <td class="text">2020083022001457931447245958</td>
+                        <td class="text">alipay</td>
+                        <td>MYR</td>
+                        <td class="text">7315642</td>
+                        <td class="text">000188</td>
+                        <td class="num">60</td>
+                        <td>1.65370500</td>
+                        <td class="num">99.22</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185041314420</td>
+                        <td class="text">89608346185041314420</td>
+                        
+                        
+                        <td class="percent">0.01</td>
+                        <td class="num">0.6</td>
+                        <td class="num">0</td>
+                        <td class="num">59.4</td>
+                    </tr>
+                </table></body></html>

@@ -1,0 +1,58 @@
+
+            <html xmlns:x="urn:schemas-microsoft-com:office:excel">
+                <head>
+                    <xml>
+                    <x:ExcelWorkbook>
+                    <x:ExcelWorksheets>
+                    <x:ExcelWorksheet>
+                    <x:WorksheetOptions>
+                    <x:Panes>
+                    </x:Panes>
+                    </x:WorksheetOptions>
+                    </x:ExcelWorksheet>
+                    </x:ExcelWorksheets>
+                    </x:ExcelWorkbook>
+                    </xml>
+                    <style>
+                        .num {mso-number-format:"0\.00";}
+                        .text{mso-number-format:"\@";}
+                        .percent{mso-number-format:"Percent";}
+                        .head{width:64px;white-space: nowrap;}
+                        table{white-space: nowrap;}
+                    </style>
+                </head>
+            <body>
+        <table border="0" width="100%">
+        <tr>
+            <td class="head">Tran Qty</td>
+            <td class="head">Tran Category</td>
+            <td class="head">Partner ID</td>
+            <td class="head">Branch Company</td>
+            <td class="head">City</td>
+            <td class="head">Province</td>
+            <td class="head">Brand</td>
+            <td class="head">Shop ID</td>
+            <td class="head">Merchant Name</td>
+            <td class="head">Merchant ID</td>
+            <td class="head">Tran Date</td>
+            <td class="head">Tran Time</td>
+            <td class="head">Terminal ID</td>
+            <td class="head">Alipay Transaction Number</td>
+            <td class="head">Campaign</td>
+            <td class="head">Currency</td>
+            <td class="head">Merchant Reference Id</td>
+            <td class="head">TRACE. NO</td>
+            <td class="head">Tran Amt</td>
+            <td class="head">Exchange</td>
+            <td class="head">Tran Amt (CNY)</td>
+            <td class="head">MBB Merchant ID</td>
+            <td class="head">Type</td>
+            <td class="head">System Reference Number</td>
+            <td class="head">Alipay Partner Transaction Number</td>
+            
+            
+            <td class="head">MDR Rate</td>
+            <td class="head">MDR Amount</td>
+            <td class="head">SST Amount</td>
+            <td class="head">Net Amount</td>
+        </tr></table></body></html>

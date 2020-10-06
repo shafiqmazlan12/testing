@@ -1,0 +1,398 @@
+
+            <html xmlns:x="urn:schemas-microsoft-com:office:excel">
+                <head>
+                    <xml>
+                    <x:ExcelWorkbook>
+                    <x:ExcelWorksheets>
+                    <x:ExcelWorksheet>
+                    <x:WorksheetOptions>
+                    <x:Panes>
+                    </x:Panes>
+                    </x:WorksheetOptions>
+                    </x:ExcelWorksheet>
+                    </x:ExcelWorksheets>
+                    </x:ExcelWorkbook>
+                    </xml>
+                    <style>
+                        .num {mso-number-format:"0\.00";}
+                        .text{mso-number-format:"\@";}
+                        .percent{mso-number-format:"Percent";}
+                        .head{width:64px;white-space: nowrap;}
+                        table{white-space: nowrap;}
+                    </style>
+                </head>
+            <body>
+        <table border="0" width="100%">
+        <tr>
+            <td class="head">Tran Qty</td>
+            <td class="head">Tran Category</td>
+            <td class="head">Partner ID</td>
+            <td class="head">Branch Company</td>
+            <td class="head">City</td>
+            <td class="head">Province</td>
+            <td class="head">Brand</td>
+            <td class="head">Shop ID</td>
+            <td class="head">Merchant Name</td>
+            <td class="head">Merchant ID</td>
+            <td class="head">Tran Date</td>
+            <td class="head">Tran Time</td>
+            <td class="head">Terminal ID</td>
+            <td class="head">Wallet Transaction Number</td>
+            <td class="head">Campaign</td>
+            <td class="head">Currency</td>
+            <td class="head">Merchant Reference Id</td>
+            <td class="head">TRACE. NO</td>
+            <td class="head">Tran Amt</td>
+            <td class="head">Exchange</td>
+            <td class="head">Tran Amt (CNY)</td>
+            <td class="head">MBB Merchant ID</td>
+            <td class="head">Type</td>
+            <td class="head">System Reference Number</td>
+            <td class="head">Wallet Partner Transaction Number</td>
+            
+            
+            <td class="head">MDR Rate</td>
+            <td class="head">MDR Amount</td>
+            <td class="head">SST Amount</td>
+            <td class="head">Net Amount</td>
+        </tr>
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Grand</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">3</td>
+                        <td class="text">The Bakery - Genting Highlands</td>
+                        <td class="text">600000061601000</td>
+                        <td class="text">20200903</td>
+                        <td class="text">105947</td>
+                        <td class="text">61601000</td>
+                        <td class="text">20200903211212800100171980806572809</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">000351</td>
+                        <td class="num">18</td>
+                        <td>1.00000000</td>
+                        <td class="num">18</td>
+                        <td class="text">GentingGrand</td>
+                        <td>P</td>
+                        <td class="text">185081360834</td>
+                        <td class="text">61601000185081360834</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">18</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Grand</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">3</td>
+                        <td class="text">The Bakery - Genting Highlands</td>
+                        <td class="text">600000061601000</td>
+                        <td class="text">20200903</td>
+                        <td class="text">112315</td>
+                        <td class="text">61601000</td>
+                        <td class="text">20200903211212800100171578206721489</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">000352</td>
+                        <td class="num">73</td>
+                        <td>1.00000000</td>
+                        <td class="num">73</td>
+                        <td class="text">GentingGrand</td>
+                        <td>P</td>
+                        <td class="text">185081361068</td>
+                        <td class="text">61601000185081361068</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">73</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">MEDAN SELERA T1</td>
+                        <td class="text">MEDAN SELERA</td>
+                        <td class="text">600000041603163</td>
+                        <td class="text">20200903</td>
+                        <td class="text">112735</td>
+                        <td class="text">44600551</td>
+                        <td class="text">20200903211212800100171386006622445</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text">200903112728000662662106</td>
+                        <td class="text">003708</td>
+                        <td class="num">25.7</td>
+                        <td>1.00000000</td>
+                        <td class="num">25.7</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185081361121</td>
+                        <td class="text">44600551185081361121</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">25.7</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Genting</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">SKYTROPOLIS</td>
+                        <td class="text">SKYTROPOLIS</td>
+                        <td class="text">600000098602567</td>
+                        <td class="text">20200903</td>
+                        <td class="text">123137</td>
+                        <td class="text">25603205</td>
+                        <td class="text">20200903211212800100171497906683286</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">002823</td>
+                        <td class="num">130</td>
+                        <td>1.00000000</td>
+                        <td class="num">130</td>
+                        <td class="text">SKYTROPOLIS</td>
+                        <td>P</td>
+                        <td class="text">185081361871</td>
+                        <td class="text">25603205185081361871</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">130</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Genting</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">SKY VR</td>
+                        <td class="text">SKY VR</td>
+                        <td class="text">600000018607742</td>
+                        <td class="text">20200903</td>
+                        <td class="text">141104</td>
+                        <td class="text">36607786</td>
+                        <td class="text">20200903211212800100171191206599068</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">001519</td>
+                        <td class="num">40</td>
+                        <td>1.00000000</td>
+                        <td class="num">40</td>
+                        <td class="text">SKYVR</td>
+                        <td>P</td>
+                        <td class="text">185081363582</td>
+                        <td class="text">36607786185081363582</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">40</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Grand</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">3</td>
+                        <td class="text">The Bakery - Genting Highlands</td>
+                        <td class="text">600000061601000</td>
+                        <td class="text">20200903</td>
+                        <td class="text">161359</td>
+                        <td class="text">61601000</td>
+                        <td class="text">20200903211212800100171565306673992</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">000355</td>
+                        <td class="num">10</td>
+                        <td>1.00000000</td>
+                        <td class="num">10</td>
+                        <td class="text">GentingGrand</td>
+                        <td>P</td>
+                        <td class="text">185081365607</td>
+                        <td class="text">61601000185081365607</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">10</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Genting</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">SKY VR</td>
+                        <td class="text">SKY VR</td>
+                        <td class="text">600000018607742</td>
+                        <td class="text">20200903</td>
+                        <td class="text">175346</td>
+                        <td class="text">36607786</td>
+                        <td class="text">20200903211212800100171041806538635</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">001520</td>
+                        <td class="num">390</td>
+                        <td>1.00000000</td>
+                        <td class="num">390</td>
+                        <td class="text">SKYVR</td>
+                        <td>P</td>
+                        <td class="text">185081367220</td>
+                        <td class="text">36607786185081367220</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">390</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Sky Avenue</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">BL GENTING</td>
+                        <td class="text">Burger&Lobster-GentingHighlands</td>
+                        <td class="text">600000024605565</td>
+                        <td class="text">20200903</td>
+                        <td class="text">182050</td>
+                        <td class="text">24605565</td>
+                        <td class="text">20200903211212800100171899606647889</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">008412</td>
+                        <td class="num">193</td>
+                        <td>1.00000000</td>
+                        <td class="num">193</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185081367656</td>
+                        <td class="text">24605565185081367656</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">193</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Selangor</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">HARRY RAMSDEN FISH & CHIPS</td>
+                        <td class="text">HARRY RAMSDEN FISH & CHIPS</td>
+                        <td class="text">600060319607022</td>
+                        <td class="text">20200903</td>
+                        <td class="text">202502</td>
+                        <td class="text">59600250</td>
+                        <td class="text">20200903211212800100171023006532646</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">001817</td>
+                        <td class="num">85</td>
+                        <td>1.00000000</td>
+                        <td class="num">85</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185081369633</td>
+                        <td class="text">59600250185081369633</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">85</td>
+                    </tr>
+                
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">Genting Malaysia Berhad</td>
+                        <td class="text">Selangor</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">HARRY RAMSDEN FISH & CHIPS</td>
+                        <td class="text">HARRY RAMSDEN FISH & CHIPS</td>
+                        <td class="text">600060319607022</td>
+                        <td class="text">20200903</td>
+                        <td class="text">213744</td>
+                        <td class="text">59600250</td>
+                        <td class="text">20200903211212800100171346506721337</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">001818</td>
+                        <td class="num">120</td>
+                        <td>1.00000000</td>
+                        <td class="num">120</td>
+                        <td class="text">SkyAvenue</td>
+                        <td>P</td>
+                        <td class="text">185081370904</td>
+                        <td class="text">59600250185081370904</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">120</td>
+                    </tr>
+                </table></body></html>

@@ -1,0 +1,92 @@
+
+            <html xmlns:x="urn:schemas-microsoft-com:office:excel">
+                <head>
+                    <xml>
+                    <x:ExcelWorkbook>
+                    <x:ExcelWorksheets>
+                    <x:ExcelWorksheet>
+                    <x:WorksheetOptions>
+                    <x:Panes>
+                    </x:Panes>
+                    </x:WorksheetOptions>
+                    </x:ExcelWorksheet>
+                    </x:ExcelWorksheets>
+                    </x:ExcelWorkbook>
+                    </xml>
+                    <style>
+                        .num {mso-number-format:"0\.00";}
+                        .text{mso-number-format:"\@";}
+                        .percent{mso-number-format:"Percent";}
+                        .head{width:64px;white-space: nowrap;}
+                        table{white-space: nowrap;}
+                    </style>
+                </head>
+            <body>
+        <table border="0" width="100%">
+        <tr>
+            <td class="head">Tran Qty</td>
+            <td class="head">Tran Category</td>
+            <td class="head">Partner ID</td>
+            <td class="head">Branch Company</td>
+            <td class="head">City</td>
+            <td class="head">Province</td>
+            <td class="head">Brand</td>
+            <td class="head">Shop ID</td>
+            <td class="head">Merchant Name</td>
+            <td class="head">Merchant ID</td>
+            <td class="head">Tran Date</td>
+            <td class="head">Tran Time</td>
+            <td class="head">Terminal ID</td>
+            <td class="head">Wallet Transaction Number</td>
+            <td class="head">Campaign</td>
+            <td class="head">Currency</td>
+            <td class="head">Merchant Reference Id</td>
+            <td class="head">TRACE. NO</td>
+            <td class="head">Tran Amt</td>
+            <td class="head">Exchange</td>
+            <td class="head">Tran Amt (CNY)</td>
+            <td class="head">MBB Merchant ID</td>
+            <td class="head">Type</td>
+            <td class="head">System Reference Number</td>
+            <td class="head">Wallet Partner Transaction Number</td>
+            
+            
+            <td class="head">MDR Rate</td>
+            <td class="head">MDR Amount</td>
+            <td class="head">SST Amount</td>
+            <td class="head">Net Amount</td>
+        </tr>
+                    <tr>
+                        <td>1</td>
+                        <td class="text">qrpay-sale</td>
+                        <td class="text">2018070517082900000280</td>
+                        <td class="text">First World Hotels & Resorts Sdn. Bhd.</td>
+                        <td class="text">Pahang</td>
+                        <td class="text">Malaysia</td>
+                        <td class="text">Gentingwmy</td>
+                        <td class="text">LOBBY CAFE</td>
+                        <td class="text">LOBBY CAFE</td>
+                        <td class="text">600000043603889</td>
+                        <td class="text">20200903</td>
+                        <td class="text">084445</td>
+                        <td class="text">43603889</td>
+                        <td class="text">20200903211212800100171004306568574</td>
+                        <td class="text">touchngoQrpay</td>
+                        <td>MYR</td>
+                        <td class="text"></td>
+                        <td class="text">002806</td>
+                        <td class="num">15</td>
+                        <td>1.00000000</td>
+                        <td class="num">15</td>
+                        <td class="text">FirstWorldHotel</td>
+                        <td>P</td>
+                        <td class="text">185081359855</td>
+                        <td class="text">43603889185081359855</td>
+                        
+                        
+                        <td class="percent">0</td>
+                        <td class="num">0</td>
+                        <td class="num">0</td>
+                        <td class="num">15</td>
+                    </tr>
+                </table></body></html>

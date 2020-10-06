@@ -1,0 +1,11 @@
+Company : M001272 - GENTING MALAYSIA BERHAD,,,,,,,,,,,,
+Account Opening Branch : Wisma Genting,,,,,,,,,,,,
+Account No. : 8000548341/WIDURI PELANGI SDN BHD 800548341(MYR),,,,,,,,,,,,
+Period : 04-09-2020 - 04-09-2020,,,,,,,,,,,,
+Opening Available Balance : 44834.69,,,,,,,,,,,,
+Closing Available Balance : 60526.8,,,,,,,,,,,,
+Account Number,Record Sequence Number,Transaction Date,Transaction Code,Transaction Code Description,Originating Branch Code,Document Reference Number,Transaction Amount,Transaction Amount Type,Balance,Balance Type,Filler,Record Type
+8000548341,4,4092020,174,IBG CREDIT,2001,720248712302162,453.39,C,60526.8,C,,1
+8000548341,3,4092020,141,AUTOPAY CR,1960,200145,12791.28,C,60073.41,C,,1
+8000548341,2,4092020,141,AUTOPAY CR,1170,200125,2138.09,C,47282.13,C,,1
+8000548341,1,4092020,141,AUTOPAY CR,1030,107072,309.35,C,45144.04,C,,1

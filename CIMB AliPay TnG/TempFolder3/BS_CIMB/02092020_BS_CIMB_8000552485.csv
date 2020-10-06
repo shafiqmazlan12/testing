@@ -1,0 +1,13 @@
+Company : M001272 - GENTING MALAYSIA BERHAD
+Account Opening Branch : Wisma Genting
+Account No. : 8000552485/FIRST WORLD HOTELS AND RESORTS SDN BHD 8000552485(MYR)
+Period : 02-09-2020 - 02-09-2020
+Opening Available Balance : 84874.78
+Closing Available Balance : 6984.87
+Account Number,Record Sequence Number,Transaction Date,Transaction Code,Transaction Code Description,Originating Branch Code,Document Reference Number,Transaction Amount,Transaction Amount Type,Balance,Balance Type,Transaction Time,Customer Reference,Filler,Record Type,Recipient Reference,Other Payment Details,Sender Name
+8000552485,5,02092020,0341,"=""TR IBG""",3050,"=""05698951""",83000,D,6984.87,C,192510,"=""GENTING MALAYSIA BER""",,1,"=""8000552485""","=""PayNet Direct Debit""",
+8000552485,4,02092020,0618,"=""AUTOPAY CR""",3471,"=""44653826""",15,C,89984.87,C,133834,"=""TNG STLMNT 010920 FirstWorldHo""",,1,"=""TNG STLMNT 010920 Fi""","=""Transfer From CIMB""","=""E WALLET COLLECTION"""
+8000552485,3,02092020,0141,"=""AUTOPAY CR""",1000,"=""200188""",4512.72,C,89969.87,C,123053,"=""0000001000200188""",,1,"=""000001000200188""","=""MERCHANT SALES PYMT""","=""CIMB BANK CREDIT CAR"""
+8000552485,2,02092020,0141,"=""AUTOPAY CR""",1010,"=""200194""",119.19,C,85457.15,C,123053,"=""0000001010200194""",,1,"=""000001010200194""","=""MERCHANT SALES PYMT""","=""CIMB BANK CREDIT CAR"""
+8000552485,1,02092020,0141,"=""AUTOPAY CR""",1176,"=""600989""",463.18,C,85337.96,C,123053,"=""0000001176600989""",,1,"=""000001176600989""","=""MERCHANT SALES PYMT""","=""CIMB BANK CREDIT CAR"""
+
